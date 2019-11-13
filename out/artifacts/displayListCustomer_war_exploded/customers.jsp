@@ -20,7 +20,7 @@
 <table>
     <tr>
         <td>Tên</td>
-        <td>Ngày sinh</td>
+        <td>Tuổi</td>
         <td>Địa chỉ</td>
         <td>Ảnh</td>
     </tr>
